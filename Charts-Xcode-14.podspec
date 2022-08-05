@@ -1,5 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "Charts-Xcode-14"
+  s.module_name = "Charts"
   s.version = "4.0.3"
   s.summary = "Charts is a powerful & easy to use chart library for iOS, tvOS and OSX (and Android)"
   s.homepage = "https://github.com/danielgindi/Charts"
